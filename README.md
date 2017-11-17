@@ -30,10 +30,46 @@ This web page provides info on the Roland TR-808 which the user can use for pers
       <td>This property takes an element out of the normal flow of it's containing element, without removing it from the flow entirely The values specify the direction the element should be moved.</td>
       <td>I've applied float to numerous elements to move them out of the way of a block while maintaining a wrap effect. For my navigation bar I've used float left on my hyperlinks to keep them all left in a row.</td>
     </tr>
-  </tbody>
-</table>
-
-
+    <tr>
+      <td>DISPLAY: BLOCK</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>DISPLAY: INLINE</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CENTERED CONTENT</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PSEUDO-ELEMENT</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>PSEUDO-CLASS</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>CLEAR-FIX</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>POSITIONAL SELECTOR</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>SELECTOR COMBINATOR</td>
+      <td></td>
+      <td></td>
+    </tr>
 ## Setup/Installation Requirements
 
 [View on web browser](https://mpinaud.github.io/tr-808/)
