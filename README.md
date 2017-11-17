@@ -71,6 +71,8 @@ This web page provides info on the Roland TR-808 which the user can use for pers
       <td></td>
     </tr>
   </tbody>
+</table>
+
 ## Setup/Installation Requirements
 
 [View on web browser](https://mpinaud.github.io/tr-808/)
