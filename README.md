@@ -70,7 +70,7 @@ This web page provides info on the Roland TR-808 which the user can use for pers
       <td></td>
       <td></td>
     </tr>
-
+  </tbody>
 ## Setup/Installation Requirements
 
 [View on web browser](https://mpinaud.github.io/tr-808/)
