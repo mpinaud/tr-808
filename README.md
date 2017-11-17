@@ -10,16 +10,20 @@ This web page provides info on the Roland TR-808 which the user can use for pers
 
 ## Elements Used
 <table>
+<!--header  -->
   <thead>
     <tr>
-      <th>Header</th>
-      <th>Another Header</th>
+      <th>TERM</th>
+      <th>DESCRIPTION</th>
+      <th>IMPLEMENTATION</th>
     </tr>
   </thead>
+<!--body  -->
   <tbody>
     <tr>
-      <td>field 1</td>
-      <td>value one</td>
+      <td>BOX-SIZING</td>
+      <td>This property tells the browser what parts of the box model should be included in the elements total width and the height.</td>
+      <td>I've applied the border-box to all the elements in the browser in order to normalize all the outside dimensions of every container. Without using the border-box, changes in the border or padding can have unwanted effects on total width and height of an individual element.</td>
     </tr>
   </tbody>
 </table>
