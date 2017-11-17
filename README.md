@@ -26,7 +26,7 @@ This web page provides info on the Roland TR-808 which the user can use for pers
       <td>In this project I've applied border-box to all the elements in the browser in order to normalize all the outside dimensions of every container. Without using the border-box, changes in the border or padding can have unwanted effects on total width and height of an individual element.</td>
     </tr>
     <tr>
-      <td>FlOAT</td>
+      <td>FLOAT</td>
       <td>This property takes an element out of the normal flow of it's containing element, without removing it from the flow entirely The values specify the direction the element should be moved.</td>
       <td>I've applied float to numerous elements to move them out of the way of a block while maintaining a wrap effect. For my navigation bar I've used float left on my hyperlinks to keep them all left in a row.</td>
     </tr>
