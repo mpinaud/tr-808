@@ -31,6 +31,11 @@ body {
   float: right;
 }
 
+.menu img {
+    width: 22px;
+    margin-right: 7px;
+}
+
 .nav-bar h1 {
   float: left;
   font-size: 14px;
@@ -49,6 +54,10 @@ a:link {
 
 a:hover {
   color: #fff;
+}
+
+.shopping-cart:hover {
+  filter: invert();
 }
 
 .line {
@@ -84,6 +93,7 @@ a:hover {
   height: 227px;
   margin: 8px;
   border-radius: 4px;
+  box-shadow: 5px 5px 5px #353535;
 }
 h2 {
   font-family: 'Comfortaa', cursive;
@@ -132,6 +142,8 @@ th, td {
   height: 125px;
   float: left;
   margin: 3px 9px 18px;
+  box-shadow: 5px 5px 5px #353535;
+  border-radius: 6px;
 }
 
 .photos img:nth-child(5), .photos img:nth-child(9){
