@@ -32,42 +32,42 @@ This web page provides info on the Roland TR-808 which the user can use for pers
     </tr>
     <tr>
       <td>DISPLAY: BLOCK</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
     <tr>
       <td>DISPLAY: INLINE</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
     <tr>
       <td>CENTERED CONTENT</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
     <tr>
       <td>PSEUDO-ELEMENT</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
     <tr>
       <td>PSEUDO-CLASS</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
     <tr>
       <td>CLEAR-FIX</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
     <tr>
       <td>POSITIONAL SELECTOR</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
     <tr>
       <td>SELECTOR COMBINATOR</td>
-      <td></td>
+      <td>This property </td>
       <td></td>
     </tr>
   </tbody>
