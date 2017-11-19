@@ -33,12 +33,12 @@ This web page provides info for a Roland TR-808 for sale. The user will have the
     <tr>
       <td>DISPLAY: BLOCK</td>
       <td>An element using this property will take up the full width available in it's box model, while adding a new line before and after.</td>
-      <td>I've applied display: block to my Buy It Now and Add to cart buttons so that they would stack over one another within the box. I've also added this to my description section to stack the <p> elements over one another.</td>
+      <td>I've applied display: block to my Buy It Now and Add to cart buttons so that they would stack over one another within the box. I've also added this to my description section to stack the p elements over one another.</td>
     </tr>
     <tr>
       <td>DISPLAY: INLINE</td>
       <td>An element using this property takes up only as much width as it needs, and does not force new lines.</td>
-      <td>I've applied display: inline to the <h1> elements in my navigation bar so they would sit within it's box model side by side</td>
+      <td>I've applied display: inline to the h1 elements in my navigation bar so they would sit within it's box model side by side</td>
     </tr>
     <tr>
       <td>CENTERED CONTENT</td>
@@ -48,7 +48,7 @@ This web page provides info for a Roland TR-808 for sale. The user will have the
     <tr>
       <td>PSEUDO-ELEMENT</td>
       <td>A CSS pseudo-element is used to style specified parts of an element. For example, it can be used to style the first letter, or line, of an element or insert content before, or after, the content of an element.</td>
-      <td>I've applied this to the first letters of each <p> element within the description section by changing the font color to yellow.</td>
+      <td>I've applied this to the first letters of each p element within the description section by changing the font color to yellow.</td>
     </tr>
     <tr>
       <td>PSEUDO-CLASS</td>
@@ -63,7 +63,7 @@ This web page provides info for a Roland TR-808 for sale. The user will have the
     <tr>
       <td>POSITIONAL SELECTOR</td>
       <td>This property is used to select specific element(s) you want to style.</td>
-      <td>I've applied this to a few elements which I needed to stylize specifically within a box model. For example, using h2:nth-child(2) to change the font size and position of my second <h2> element.</td>
+      <td>I've applied this to a few elements which I needed to stylize specifically within a box model. For example, using h2:nth-child(2) to change the font size and position of my second h2 element.</td>
     </tr>
     <tr>
       <td>SELECTOR COMBINATOR</td>
