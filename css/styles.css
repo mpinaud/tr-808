@@ -81,7 +81,7 @@ a:hover {
   margin: 20px 0 15px;
 }
 
-.line-specs{
+.line-specs {
   float: left;
   width:100%;
   height:1px;
@@ -89,7 +89,7 @@ a:hover {
   margin: 25px 0 22px;
 }
 
-.main-image img{
+.main-image img {
   float: left;
   width: 614px;
   margin: 20px 10px;
@@ -104,19 +104,13 @@ h2 {
 }
 
 h2:nth-child(2) {
-    left: 159px;
-    font-size: 15px;
-    top: 103.4px;
-}
-
-h2:nth-child(3) {
-    left: 159px;
-    font-size: 15px;
-    top: 103.4px;
+  left: 159px;
+  font-size: 15px;
+  top: 103.4px;
 }
 
 .seller-info {
-    float: right;
+  float: right;
 }
 
 .buy-it-now {
@@ -142,7 +136,7 @@ span.button {
 }
 
 span.button:hover {
-    background-color: #cc0000;
+  background-color: #cc0000;
 }
 
 .payment-table {
@@ -166,7 +160,7 @@ table.payment-table td {
   margin-right: 26px;
 }
 
-.used-images img{
+.used-images img {
   float: left;
   width: 316px;
   height: 212px;
@@ -186,6 +180,10 @@ table.payment-table td {
   display: block;
   text-align: justify;
   padding: 6px;
+}
+
+.description p::first-letter {
+  color: #efff00;
 }
 
 .description p:last-child {
