@@ -16,9 +16,12 @@ body {
 }
 
 .nav-bar {
-  padding: 4px;
-  height: 28px;
+  position: fixed;
   background-color: #eae9d9;
+  width: 96%;
+  height: 28px;
+  padding: 4px;
+  z-index: 1;
 }
 
 .nav-bar img {
@@ -67,15 +70,23 @@ a:hover {
   width:100%;
   height:1px;
   background: #fff;
-  margin: 20px 0 20px;
+  margin: 50px 0 20px;
 }
 
-.line-bottom {
+.line-description {
   float: left;
   width:100%;
   height:1px;
   background: #fff;
-  margin: 0 0 20px;
+  margin: 20px 0 15px;
+}
+
+.line-specs{
+  float: left;
+  width:100%;
+  height:1px;
+  background: #fff;
+  margin: 25px 0 22px;
 }
 
 .main-image img{
@@ -84,26 +95,80 @@ a:hover {
   margin: 20px 10px;
 }
 
-.used-images {
-  margin-left: 30px;
-  float: left;
-  margin-top: 34px;
-}
-.used-images img{
-  float: left;
-  width: 331px;
-  height: 227px;
-  margin: 8px;
-  border-radius: 4px;
-  box-shadow: 5px 5px 5px #353535;
-}
 h2 {
   font-family: 'Comfortaa', cursive;
   font-size: 34px;
   position: absolute;
   left: 29px;
-  top: 95px;
+  top: 101px;
 }
+
+h2:nth-child(2) {
+    left: 159px;
+    font-size: 15px;
+    top: 103.4px;
+}
+
+h2:nth-child(3) {
+    left: 159px;
+    font-size: 15px;
+    top: 103.4px;
+}
+
+.seller-info {
+    float: right;
+}
+
+.buy-it-now {
+  position: relative;
+}
+
+.buy-buttons {
+  float: left;
+}
+
+span.button {
+  margin: 10px 0 0 10px;
+  display: block;
+  background-color: Red;
+  border: none;
+  padding: 6px 30px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 7px;
+}
+
+.payment-table {
+  position: relative;
+  top: 12px;
+  left: 20px;
+}
+
+table.payment-table th {
+  font-size: 13px;
+  border: none;
+}
+
+table.payment-table td {
+  font-size: 13px;
+  border: none;
+}
+
+.used-images {
+  float: right;
+  margin-right: 26px;
+}
+
+.used-images img{
+  float: left;
+  width: 316px;
+  height: 212px;
+  margin: 8px;
+  border-radius: 4px;
+  box-shadow: 5px 5px 5px #353535;
+}
+
 
 .description {
   clear: both;
@@ -116,6 +181,10 @@ h2 {
   display: block;
   text-align: justify;
   padding: 6px;
+}
+
+.description p:last-child {
+  padding-bottom: 0px;
 }
 
 .specs {
@@ -133,6 +202,7 @@ th, td {
   border: 1px solid #fd8204;
   padding: 2px;
 }
+
 
 .photos {
   width: 50%;
@@ -154,6 +224,14 @@ th, td {
   clear: both;
 }
 
+.line-bottom {
+  float: left;
+  width:100%;
+  height:1px;
+  background: #fff;
+  margin: 10px 0 20px;
+}
+
 .media {
   clear: both;
   margin-left: auto;
@@ -169,5 +247,5 @@ th, td {
 }
 
 .icons:hover {
-  filter: drop-shadow(2px 2px 2px white);
+  filter: brightness(0%);
 }
