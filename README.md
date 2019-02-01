@@ -4,19 +4,14 @@ An application to practice layout using CSS
 
 ![alt text](https://github.com/mpinaud/tr-808/blob/master/img/tr.png)
 
+## View
+https://mpinaud.github.io/tr-808/
+
 # What I Learned
 
 * Design a UI styling with CSS
 * How to create a Table in a markdown file
 * New CSS properties
-  * postion
-  * filter
-  * radial-gradient
-
-## View
-https://mpinaud.github.io/tr-808/
-
-## Elements Used
 <table>
 <!--header  -->
   <thead>
@@ -91,4 +86,4 @@ https://mpinaud.github.io/tr-808/
 * Clone this repository from https://github.com/mpinaud/tr-808
 
 ## By
-Mikey Pinaud 10/12/2017
+Mikey Pinaud 11/20/2017
