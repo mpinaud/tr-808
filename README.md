@@ -2,7 +2,7 @@
 
 An application to practice layout using CSS
 
-![alt text](https://github.com/mpinaud/tr-808/blob/master/img/tr.png)
+![tr-808](https://github.com/mpinaud/tr-808/blob/master/img/tr.png)
 
 ## View
 https://mpinaud.github.io/tr-808/
